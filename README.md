@@ -1,6 +1,10 @@
 # corpus_cleaner
 Высокопроизводительная утилита для очистки текстовых корпусов 
 
+Десятки тысяч книг за минуту.
+<img width="2887" height="528" alt="image" src="https://github.com/user-attachments/assets/963d8c1b-271d-405c-8c23-f320b869dd1c" />
+~1 Watt per core on IvyBridge
+
 ```corpus_cleaner --help
 Высокопроизводительная утилита на Rust для очистки текстовых корпусов перед обучением LLM.
 Использует фильтры Блума (Bloom Filter) для мгновенного поиска по словарю (~1.5 млн слов)
@@ -123,5 +127,15 @@ Options:
 
   -h, --help
   ```
+Vibe-coded 1-shot with gemini and bug-hunting + add features with deepseek:
+<img width="1526" height="1705" alt="image" src="https://github.com/user-attachments/assets/de78af77-0cee-49ac-a833-0ff47da3e6e5" />
 
- 
+<img width="2703" height="1526" alt="image" src="https://github.com/user-attachments/assets/7935cca2-89d8-422b-9d3a-ef3334f67975" />
+
+// prompt style )
+some complex staff? do it!
+
+<img width="2725" height="1483" alt="image" src="https://github.com/user-attachments/assets/0ebda940-090c-4e9e-89eb-fb83504a4ab7" />
+
+
+
